@@ -14,5 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</br>
+https://bmc.link/pdovhomilja
+</br>
 - 🔭 I’m currently working on NextCRM.io
 <a href="https://app.daily.dev/pdovhomilja"><img src="https://api.daily.dev/devcards/c1cb73d1806d41869f4d30b04c77ddbb.png?r=2uy" width="400" alt="Pavel Dovhomilja's Dev Card"/></a>
