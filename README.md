@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+My name is Pavel Dovhomilja, and I am a full-stack developer who loves Next.JS framework and TypeScript. 
 
 **My skills:**  
 
