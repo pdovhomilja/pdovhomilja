@@ -16,12 +16,15 @@ Here are some ideas to get you started:
 
 **languages and tools:**  
 -->
-
-</br>
+<div>
+  <div></br>
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://bmc.link/pdovhomilja" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 </br>
-- 🔭 I’m currently working on NextCRM.io
-<a href="https://app.daily.dev/pdovhomilja"><img src="https://api.daily.dev/devcards/c1cb73d1806d41869f4d30b04c77ddbb.png?r=2uy" width="400" alt="Pavel Dovhomilja's Dev Card"/></a>
+- 🔭 I’m currently working on NextCRM.io</div>
+  <div><a href="https://app.daily.dev/pdovhomilja"><img src="https://api.daily.dev/devcards/c1cb73d1806d41869f4d30b04c77ddbb.png?r=2uy" width="400" alt="Pavel Dovhomilja's Dev Card"/></a></div>
+</div>
+
+
