@@ -13,7 +13,7 @@ Feel free to explore my repositories and don't hesitate to reach out if you have
 <br/>
 <h2>What I'm working on</h2>
 <p align="center">
-    <img src="https://www.nextcrm.app/img/twitter-og.png" />
+    <img src="https://www.nextcrm.app/img/twitter-og.png" alt="nextcrm"/>
 </p>
 <h2>How to contact</h2>
 <div align="center">
