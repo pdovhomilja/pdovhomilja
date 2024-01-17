@@ -22,9 +22,10 @@ Feel free to explore my repositories and don't hesitate to reach out if you have
   	&nbsp;
     <a href="https://www.linkedin.com/in/paveldovhomilja/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
       &nbsp;
-    <a href="https://discord.com/invite/Dd4Aj6S4Dz"><img alt="Discord" src="https://img.shields.io/discord/1192408971106070528?style=for-the-badge&logo=discord"></a>
-&nbsp;
-<a href="https://dovhomilja.cz" target="_blank"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fdovhomilja.cz&style=for-the-badge"></a>
+    <a href="https://discord.com/invite/Dd4Aj6S4Dz"><img alt="Static Badge" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
+<img alt="Discord" src="https://img.shields.io/discord/1192408971106070528?style=for-the-badge&logo=discord"></a>
+    &nbsp;
+    <a href="https://dovhomilja.cz" target="_blank"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fdovhomilja.cz&style=for-the-badge"></a>
 </div>
 
 <br/>
