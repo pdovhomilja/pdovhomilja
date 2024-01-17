@@ -4,6 +4,11 @@
 <h2> I'm Pavel Dovhomilja,</h2>
 a passionate full-stack developer with a particular love for the Next.JS framework and TypeScript. I have a knack for creating efficient, scalable, and robust solutions using modern technologies like Node.js, Tailwind CSS, GIT, Kubernetes, Azure, Docker, and MongoDB.
 I'm currently working on NextCRM.io, a project that showcases my skills and dedication to delivering high-quality software. When I'm not coding, you can find me contributing to the tech community or exploring new tech stacks.
+<br/>
+    <h2>What I'm working on</h2>
+<p align="center">
+    <img src="https://www.nextcrm.app/img/twitter-og.png" alt="nextcrm"/>
+</p>
 <h2>How to support</h2>
 If you like what I do, consider <a href="https://bmc.link/pdovhomilja" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"></a>
 <br/>
@@ -11,10 +16,6 @@ Your support fuels my creativity and helps me continue to contribute to the open
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas. Let's code the future together! 🚀
 </div>
 <br/>
-<h2>What I'm working on</h2>
-<p align="center">
-    <img src="https://www.nextcrm.app/img/twitter-og.png" alt="nextcrm"/>
-</p>
 <h2>How to contact</h2>
 <div align="center">
     <a href="https://twitter.com/dovhomilja" target="_blank"><img src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
