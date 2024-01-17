@@ -11,6 +11,10 @@ Your support fuels my creativity and helps me continue to contribute to the open
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas. Let's code the future together! 🚀
 </div>
 <br/>
+<h2>What I'm working on</h2>
+<p align="center">
+    <img src="https://www.nextcrm.app/img/twitter-og.png" />
+</p>
 <h2>How to contact</h2>
 <div align="center">
     <a href="https://twitter.com/dovhomilja" target="_blank"><img src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
