@@ -12,6 +12,27 @@ I'm currently working on NextCRM.io, a project that showcases my skills and dedi
 <h2>How to support</h2>
 If you like what I do, consider <a href="https://bmc.link/pdovhomilja" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"></a>
 <br/>
+    <div id="bp-payment-button"></div>
+
+<script src="https://confirmo.net/sdk/scripts/confirmo.js"></script>
+<script type="text/javascript">
+  Confirmo.PaymentButton.initialize({
+    "id": "bp-payment-button",
+    "url": "https://confirmo.net",
+    "buttonType": "DONATION",
+    "paymentButtonId": "ek5L0lv8m7p36xdnmKOkbOoYKMzXgZWr4ya",
+    "values": {
+        "merchantAmount": null,
+        "merchantCurrency": null,
+        "productName": "Support my work",
+        "productDescription": "NextCRM app",
+        "reference": null,
+        "returnUrl": "https://nextcrm.app",
+        "overlay": true
+    }
+});
+</script>
+<br/>
 Your support fuels my creativity and helps me continue to contribute to the open-source community.
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas. Let's code the future together! 🚀
 </div>
