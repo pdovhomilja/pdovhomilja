@@ -31,8 +31,5 @@ Feel free to explore my repositories and don't hesitate to reach out if you have
 
 <br/>
 <div align="center"> 
-    <a href="https://app.daily.dev/pdovhomilja">
-        <img src="https://api.daily.dev/devcards/c1cb73d1806d41869f4d30b04c77ddbb.png?r=2uy" width="400" alt="Pavel Dovhomilja's Dev Card">
-    </a>
     <a href="https://app.daily.dev/pdovhomilja"><img src="https://api.daily.dev/devcards/v2/gVDy1CNhPoouFFmJrrCWp.png?r=e4x" width="356" alt="Pavel Dovhomilja's Dev Card"/></a>
 </div>
