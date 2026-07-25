@@ -1,9 +1,64 @@
-<h1 align="center">Welcome to my Github!</h1>
-<br/>
-<div>
-<h2> I'm Pavel Dovhomilja,</h2>
-a passionate full-stack developer with a particular love for the Next.JS framework and TypeScript. I have a knack for creating efficient, scalable, and robust solutions using modern technologies like Node.js, Tailwind CSS, GIT, Kubernetes, Azure, Docker, and MongoDB.
-I'm currently working on NextCRM.io, a project that showcases my skills and dedication to delivering high-quality software. When I'm not coding, you can find me contributing to the tech community or exploring new tech stacks.
+<h1 align="center">Pavel — Full-Stack &amp; AI Engineer</h1>
+
+<p align="center">
+  <a href="https://endorphinit.com"><strong>EndorphinIT</strong></a> ·
+  <a href="https://xmation.ai"><strong>XMATION.ai</strong></a> ·
+  <strong>DC6 Datacenter</strong> ·
+  <em>Prague, CZ</em>
+</p>
+
+<hr>
+
+<p>
+  Full-stack engineer and founder based in Prague. I build with <strong>Next.js (App Router)</strong>
+  and <strong>TypeScript</strong> in strict mode, backed by Prisma, PostgreSQL/pgvector,
+  better-auth, and durable job queues like Inngest and BullMQ.
+</p>
+
+<h3>🤖 AI Engineering</h3>
+
+<p>
+  Most of what I do now: RAG pipelines on <code>pgvector</code>, multi-model orchestration through
+  the Vercel AI SDK, MCP servers wired into real workflows, and autonomous agents that actually run
+  in production — SEO research, content distribution, and voice agents handling live calls in
+  <strong>36 languages</strong>. I self-host open models where it makes sense, and keep an eye on
+  the EU AI Act while doing it.
+</p>
+
+<h3>🏗️ Three companies, one stack</h3>
+
+<table>
+  <tr>
+    <td><strong>EndorphinIT</strong></td>
+    <td>AI software agency</td>
+  </tr>
+  <tr>
+    <td><strong>XMATION.ai</strong></td>
+    <td>AI voice employees, 36 languages</td>
+  </tr>
+  <tr>
+    <td><strong>DC6</strong></td>
+    <td>TIER III, ISO 27001 datacenter in Prague</td>
+  </tr>
+</table>
+
+<p>
+  On a given day I'm somewhere between a React server component and a Proxmox cluster —
+  Docker, Coolify, Traefik, UniFi, the whole path from commit to rack.
+</p>
+
+<h3>📌 Currently</h3>
+
+<p>
+  Maintaining <a href="https://nextcrm.io"><strong>NextCRM.io</strong></a>,
+  an open-source multi-tenant CRM.
+</p>
+
+<hr>
+
+<p align="center">
+  <em>Interested in owning your AI infrastructure instead of renting it? Let's talk.</em>
+</p>
 <br/>
     <h2>What I'm working on</h2>
 <p align="center">
