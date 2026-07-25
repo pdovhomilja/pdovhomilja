@@ -47,13 +47,6 @@
   Docker, Coolify, Traefik, UniFi, the whole path from commit to rack.
 </p>
 
-<h3>📌 Currently</h3>
-
-<p>
-  Maintaining <a href="https://nextcrm.io"><strong>NextCRM.io</strong></a>,
-  an open-source multi-tenant CRM.
-</p>
-
 <hr>
 
 <p align="center">
